@@ -36,7 +36,7 @@ export default function Header() {
                 size="lg"
                 className="bg-primary hover:bg-primary/90 text-white px-8 rounded-full"
               >
-                商品を見る
+                Contact Us
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Button>
               <Button
@@ -44,7 +44,7 @@ export default function Header() {
                 variant="outline"
                 className="border-primary text-primary hover:bg-primary hover:text-white rounded-full"
               >
-                詳しく知る
+                Learn More
               </Button>
             </div>
 
