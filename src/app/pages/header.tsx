@@ -80,17 +80,15 @@ export default function Header() {
                 priority
               />
             </div>
-
-            {/* Decorative elements */}
             <div className="absolute top-1/4 -right-1/4 w-72 h-72 bg-primary/5 rounded-full blur-3xl" />
             <div className="absolute bottom-1/4 -left-1/4 w-72 h-72 bg-secondary/30 rounded-full blur-3xl" />
-
-            {/* Product badges */}
+            -
             <div className="absolute top-8 right-8 bg-white/90 backdrop-blur-sm rounded-full px-4 py-2 shadow-lg">
               <span className="text-primary font-medium">
                 Lorem ipsum dolor sit amet
               </span>
             </div>
+            -
             <div className="absolute bottom-8 left-8 bg-white/90 backdrop-blur-sm rounded-full px-4 py-2 shadow-lg">
               <span className="text-primary font-medium">
                 Lorem ipsum dolor sit amet

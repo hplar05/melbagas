@@ -84,12 +84,6 @@ export default function Navbar() {
                 Reviews
               </a>
               <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
-                {/* <Button
-                  variant="outline"
-                  className="border-primary text-primary hover:bg-primary hover:text-white"
-                >
-                  Contact Us
-                </Button> */}
                 <Button className="bg-primary hover:bg-primary/90 text-white">
                   Contact Us
                 </Button>
